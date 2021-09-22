@@ -23,6 +23,10 @@ $ cd Banner
 $ python2 Baner.Py
 
 
-Then type your name and
+Then type your name 
 
-type exit then open the termux after 10 seconds. 
+
+ 
+Remove banner type this command 
+
+$ Remove.sh 
