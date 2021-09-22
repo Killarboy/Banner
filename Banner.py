@@ -40,7 +40,7 @@ echo
 echo "
    < ━━━━━━━━━ [★] T E R M U X [★] ━━━━━━━━━━━━ >  " |lolcat
 echo
-    echo "  We Are BD noob hacker" |lolcat
+    echo "  WE ARE NOOB HACKER BD" |lolcat
 '''
 
 bashrc2 = '''
