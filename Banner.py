@@ -54,14 +54,14 @@ echo "
                    ▒▒▒▒▒▒▒▒▒▒▒▐▒▒▒▒▌▒▒▒▒▒ " |lolcat
 echo
 
-echo "          WE ARE NOOB HACKER BD" |lolcat
+echo "        WE ARE NOOB HACKER BD" |lolcat
 '''
 
 bashrc2 = '''
 echo  "
-                   We Do Not HaCk to impress
-                              We HaCk To Express
-        < ━━━━━━━━━━━ [★]AS SOWROV [★] ━━━━━━━━━━━━ > " |lolcat
+                   
+                            
+       < ━━━━━━━━━━━ [ AS SOWROV ] ━━━━━━━━━━━━ > " |lolcat
 python /data/data/com.termux/files/usr/etc/wlc.py
 if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
         command_not_found_handle() {
