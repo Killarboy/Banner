@@ -29,4 +29,4 @@ Then type your name
  
 Remove banner type this command 
 
-$ Remove.sh 
+$ bash Remove.sh 
