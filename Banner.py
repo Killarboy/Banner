@@ -38,29 +38,30 @@ bashrc1 = '''
 clear
 echo
 echo "
-            ▒▒▒▒▒▒▒▒▄▄▄▄▄▄▄▄▒▒▒▒▒▒
-            ▒▒█▒▒▒▄██████████▄▒▒▒▒
-            ▒█▐▒▒▒████████████▒▒▒▒
-            ▒▌▐▒▒██▄▀██████▀▄██▒▒▒
-            ▐┼▐▒▒██▄▄▄▄██▄▄▄▄██▒▒▒
-            ▐┼▐▒▒██████████████▒▒▒
-            ▐▄▐████─▀▐▐▀█─█─▌▐██▄▒
-            ▒▒█████──────────▐███▌
-            ▒▒█▀▀██▄█─▄───▐─▄███▀▒
-            ▒▒█▒▒███████▄██████▒▒▒
-            ▒▒▒▒▒██████████████▒▒▒
-            ▒▒▒▒▒█████████▐▌██▌▒▒▒
-            ▒▒▒▒▒▐▀▐▒▌▀█▀▒▐▒█▒▒▒▒▒
-            ▒▒▒▒▒▒▒▒▒▒▒▐▒▒▒▒▌▒▒▒▒▒ " |lolcat
+                   ▒▒▒▒▒▒▒▒▄▄▄▄▄▄▄▄▒▒▒▒▒▒
+                   ▒▒█▒▒▒▄██████████▄▒▒▒▒
+                   ▒█▐▒▒▒████████████▒▒▒▒
+                   ▒▌▐▒▒██▄▀██████▀▄██▒▒▒
+                   ▐┼▐▒▒██▄▄▄▄██▄▄▄▄██▒▒▒
+                   ▐┼▐▒▒██████████████▒▒▒
+                   ▐▄▐████─▀▐▐▀█─█─▌▐██▄▒
+                   ▒▒█████──────────▐███▌
+                   ▒▒█▀▀██▄█─▄───▐─▄███▀▒
+                   ▒▒█▒▒███████▄██████▒▒▒
+                   ▒▒▒▒▒██████████████▒▒▒
+                   ▒▒▒▒▒█████████▐▌██▌▒▒▒
+                   ▒▒▒▒▒▐▀▐▒▌▀█▀▒▐▒█▒▒▒▒▒
+                   ▒▒▒▒▒▒▒▒▒▒▒▐▒▒▒▒▌▒▒▒▒▒ " |lolcat
 echo
-       echo "  WE ARE NOOB HACKER BD" |lolcat
+
+echo "               WE ARE NOOB HACKER BD" |lolcat
 '''
 
 bashrc2 = '''
-echo "
-             We Do Not HaCk to impress
-                        We HaCk To Express
-   < ━━━━━━━━━━━ [★]AS SOWROV [★] ━━━━━━━━━━━━ > " |lolcat
+echo  "
+                   We Do Not HaCk to impress
+                              We HaCk To Express
+             < ━━━━━━━━━━━ [★]AS SOWROV [★] ━━━━━━━━━━━━ > " |lolcat
 python /data/data/com.termux/files/usr/etc/wlc.py
 if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
         command_not_found_handle() {
@@ -80,4 +81,7 @@ h2.write(bashrc2)
 h2.write('\[\e[34m\]└─>\[\e[35m\]'+name+'\[\e[34m\][~]:#\[\e[1;32m\] "\n')
 h2.write('echo -e "\e[6 q"')
 h2.close()
+
+
+
 print('DONE type exit and open after 10 seconds')
